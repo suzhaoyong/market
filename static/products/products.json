@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone手机",
+        "description": "简洁、好用的手机",
+        "image": "/products/img/iPhone.png",
+        "price": 2660
+    },
+    {
+        "id": 2,
+        "name": "小米手机",
+        "description": "为发烧而生",
+        "image": "/products/img/xiaomi.png",
+        "price": 1999
+    }
+]
